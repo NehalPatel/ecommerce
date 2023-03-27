@@ -20,6 +20,26 @@ class BooksProvider with ChangeNotifier{
       'price': 200.0,
       'imageUrl': 'https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/51Hfv2MfNGL._SX331_BO1,204,203,200_.jpg',
     },
+    {
+      'name': 'Energize Your Mind',
+      'price': 170.0,
+      'imageUrl': 'https://m.media-amazon.com/images/I/71B4h-dSVzL._AC_UY218_.jpg',
+    },
+    {
+      'name': 'The Subtle Art of Not Giving a F*ck',
+      'price': 170.0,
+      'imageUrl': 'https://m.media-amazon.com/images/I/71QKQ9mwV7L._AC_UY218_.jpg',
+    },
+    {
+      'name': 'KARMA',
+      'price': 200.0,
+      'imageUrl': 'https://m.media-amazon.com/images/I/51ewXeUdkvL._SX312_BO1,204,203,200_.jpg',
+    },
+    {
+      'name': 'Mind is your Business',
+      'price': 200.0,
+      'imageUrl': 'https://m.media-amazon.com/images/I/51ID3mbjTkL._SY487_BO1,204,203,200_.jpg',
+    },
   ];
 
 
